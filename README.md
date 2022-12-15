@@ -8,7 +8,7 @@ download or pull main.py
 
 ## Usage
 
-run main.py with preferred ide
+run main.py with preferred IDE using Python 3.11.1. This was created with Visual Studio Code.
 
 ## Contributing
 
